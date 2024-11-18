@@ -4,7 +4,6 @@ You are trying to access a private repository. Certain repositories are private 
 Private projects by Daniel Gavin:
 - The Vaults App
 - Piranha
-- Neptune Game Studios  (website)
 
 Thank you for viewing this repository!\
 **Daniel Gavin**
